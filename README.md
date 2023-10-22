@@ -9,8 +9,11 @@ Soy un desarrollador BackEnd en proceso 🛠️. He ganado experiencia estudiand
 ### Lo que encontrarás aquí:
 
 - **[Proyectos](#proyectos):** Explora una variedad de proyectos que he desarrollado, desde aplicaciones web hasta scripts y herramientas que muestran mis habilidades y enfoque en la creación de software de calidad.
-#### Projectos de HTML y CSS basicos
+#### Proyectos de HTML y CSS basicos
 - https://github.com/NixonAmado/FreeCodeCamp-projects
+#### Proyecto final corte 1 <campus>
+- https://github.com/NixonAmado/debugNIxonAmado
+  
 
 - **[Habilidades](#habilidades):** Descubre las tecnologías con las que estoy familiarizado, desde lenguajes de programación hasta marcos y bibliotecas. Siempre estoy abierto a aprender y adaptarme a las últimas tendencias.
 
@@ -21,6 +24,6 @@ Soy un desarrollador BackEnd en proceso 🛠️. He ganado experiencia estudiand
 ### Contáctame 📬
 
 - Correo electrónico: NixonAmado00@gmail.com
-- LinkedIn: https://www.linkedin.com/in/nixonamadodev/
+- LinkedIn: www.linkedin.com/in/nixonamadodev
 
 ¡Hagamos cosas increíbles juntos! 😄
