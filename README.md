@@ -11,3 +11,14 @@ Soy un desarrollador BackEnd en proceso 🛠️. He ganado experiencia estudiand
 - **[Proyectos](#proyectos):** Explora una variedad de proyectos que he desarrollado, desde aplicaciones web hasta scripts y herramientas que muestran mis habilidades y enfoque en la creación de software de calidad.
 
 - **[Habilidades](#habilidades):** Descubre las tecnologías con las que estoy familiarizado, desde lenguajes de programación hasta marcos y bibliotecas. Siempre estoy abierto a aprender y adaptarme a las últimas tendencias.
+
+## ¡Gracias por visitar mi Portafolio! 🚀
+
+¡Espero que hayas disfrutado explorando mi trabajo y conociendo un poco más sobre mí.Si tienes alguna pregunta, sugerencia o simplemente quieres saludar, estaré encantado de escucharte. No dudes en ponerte en contacto conmigo, ¡espero conocerte!
+
+### Contáctame 📬
+
+- Correo electrónico: NixonAmado00@gmail.com
+- LinkedIn: https://www.linkedin.com/in/nixonamadodev/
+
+¡Hagamos cosas increíbles juntos! 😄
