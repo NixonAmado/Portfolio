@@ -32,7 +32,7 @@ Soy un desarrollador BackEnd en proceso 🛠️. He ganado experiencia estudiand
 #### Final corte 3 Backend campus
 - https://github.com/NixonAmado/Nixon-ropa
 
-- **Habilidades:** Descubre las tecnologías con las que estoy familiarizado, desde lenguajes de programación hasta marcos y bibliotecas. Siempre estoy abierto a aprender y adaptarme a las últimas tendencias.
+**Habilidades:** Descubre las tecnologías con las que estoy familiarizado, desde lenguajes de programación hasta marcos y bibliotecas. Siempre estoy abierto a aprender y adaptarme a las últimas tendencias.
 
 
 ## ¡Gracias por visitar mi Portafolio! 🚀
