@@ -29,9 +29,6 @@ Soy un desarrollador BackEnd en proceso 🛠️. He ganado experiencia estudiand
 - https://github.com/NixonAmado/Pharmacy-Campus
 - https://github.com/NixonAmado/UploadFiles-Campus
 
-#### Proyectos individuales
-- https://github.com/NixonAmado/Veterinary-Campus
-
 #### Final corte 3 Backend campus
 - https://github.com/NixonAmado/Nixon-ropa
 
