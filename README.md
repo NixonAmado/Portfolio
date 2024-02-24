@@ -1,47 +1,49 @@
-## ¡Bienvenido a mi Portafolio! 👋
+## Welcome to my Portfolio! 👋
 
-¡Hola! Soy Nixon Amado, un apasionado por la tecnología y el desarrollo de software. Este es mi espacio virtual donde comparto mis proyectos, exploraciones y experiencias en el mundo de la programación y la informática.
+Hello! I'm Nixon Amado, passionate about technology and software development. This is my virtual space where I share my projects, explorations, and experiences in the world of programming and computer science.
 
-### ¿Quién soy? 🚀
+### Who am I? 🚀
 
-Soy un desarrollador BackEnd en proceso 🛠️. He ganado experiencia estudiando en Campus, y me encanta crear soluciones innovadoras y resolver problemas utilizando tecnologías modernas. Mi objetivo es seguir aprendiendo, creciendo y compartiendo mi conocimiento con la comunidad.
+I'm a Backend developer in progress 🛠️. I've gained experience studying at Campus, and I love creating innovative solutions and solving problems using modern technologies. My goal is to keep learning, growing, and sharing my knowledge with the community.
 
-### Lo que encontrarás aquí:
+### What you'll find here:
 
-- **Proyectos:** Explora una variedad de proyectos que he desarrollado, desde aplicaciones web hasta scripts y herramientas que muestran mis habilidades y enfoque en la creación de software de calidad.
+- **Projects:** Explore a variety of projects I've developed, from web applications to scripts and tools showcasing my skills and focus on creating quality software.
   
   
-##### HTML y CSS basicos
-- https://github.com/NixonAmado/FreeCodeCamp-projects
-##### Final de corte 1 frontend campus
-- https://github.com/NixonAmado/debugNIxonAmado
-##### Final de corte 2 manejo de json Server campus
-- https://github.com/NixonAmado/filtroNIxonAmado2
+##### Basic HTML and CSS
+- [FreeCodeCamp-projects](https://github.com/NixonAmado/FreeCodeCamp-projects)
+##### Final project for Frontend Campus
+- [debugNIxonAmado](https://github.com/NixonAmado/debugNIxonAmado)
+##### Final project for JSON Server management at Campus
+- [filtroNIxonAmado2](https://github.com/NixonAmado/filtroNIxonAmado2)
 
-##### Ejercicios de lógica con C# 
-- https://github.com/NixonAmado/pry-logica1-Csharp
-- https://github.com/NixonAmado/pry-CentroAutomotriz-Csharp
+##### Logic exercises with C# 
+- [pry-logica1-Csharp](https://github.com/NixonAmado/pry-logica1-Csharp)
+- [pry-CentroAutomotriz-Csharp](https://github.com/NixonAmado/pry-CentroAutomotriz-Csharp)
 ### .Net
-##### Ejercicios backend  
-- https://github.com/NixonAmado/EquipoFutbol
+##### Backend exercises  
+- [campusStore](https://github.com/NixonAmado/campusStore)
+- [jardineriaEvaluacion](https://github.com/NixonAmado/jardineriaEvaluacion)
+- [universidadEvaluacion](https://github.com/NixonAmado/universidadEvaluacion)
 
-##### Proyectos en equipo 
-- https://github.com/NixonAmado/Pharmacy-Campus
-- https://github.com/NixonAmado/UploadFiles-Campus
+##### Team projects 
+- [Pharmacy-Campus](https://github.com/NixonAmado/Pharmacy-Campus)
+- [UploadFiles-Campus](https://github.com/NixonAmado/UploadFiles-Campus)
 
-#### Final corte 3 Backend campus
-- https://github.com/NixonAmado/Nixon-ropa
+#### Final project for Backend at Campus
+- [Nixon-ropa](https://github.com/NixonAmado/Nixon-ropa)
 
-## ✨✨ Mi proyecto personal ✨✨
-- https://github.com/NixonAmado/WebGlossary
+## ✨✨ My personal project ✨✨
+- [WebGlossary](https://github.com/NixonAmado/WebGlossary)
 
-## ¡Gracias por visitar mi Portafolio! 🚀
+## Thank you for visiting my Portfolio! 🚀
 
-¡Espero que hayas disfrutado explorando mi trabajo y conociendo un poco más sobre mí. Si tienes alguna pregunta, sugerencia o simplemente quieres saludar, estaré encantado de escucharte. No dudes en ponerte en contacto conmigo, ¡espero conocerte!
+I hope you've enjoyed exploring my work and getting to know me a little better. If you have any questions, suggestions, or just want to say hi, I'll be happy to hear from you. Feel free to get in touch, I look forward to meeting you!
 
-### Contáctame 📬
+### Contact me 📬
 
-- Correo electrónico: NixonAmado00@gmail.com
-- LinkedIn: www.linkedin.com/in/nixonamadodev
+- Email: NixonAmado00@gmail.com
+- LinkedIn: [Nixon Amado Dev](www.linkedin.com/in/nixonamadodev)
 
-¡Hagamos cosas increíbles juntos! 😄
+Let's do amazing things together! 😄
