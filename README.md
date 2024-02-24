@@ -4,7 +4,8 @@ Hello! I'm Nixon Amado, passionate about technology and software development. Th
 
 ### Who am I? 🚀
 
-I'm a Backend developer in progress 🛠️. I've gained experience studying at Campus, and I love creating innovative solutions and solving problems using modern technologies. My goal is to keep learning, growing, and sharing my knowledge with the community.
+I'm a Backend developer in progress 🛠️. I've gained experience studying at **[CampusLands](https://www.linkedin.com/company/campuslands/)**
+, and I love creating innovative solutions and solving problems using modern technologies. My goal is to keep learning, growing, and sharing my knowledge with the community.
 
 ### What you'll find here:
 
