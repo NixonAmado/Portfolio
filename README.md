@@ -14,26 +14,29 @@ I'm a Backend developer in progress 🛠️. I've gained experience studying at 
   
 ##### Basic HTML and CSS
 - [FreeCodeCamp-projects](https://github.com/NixonAmado/FreeCodeCamp-projects)
-##### Final project for Frontend Campus
+##### Final Frontend project at CampusLands
 - [debugNIxonAmado](https://github.com/NixonAmado/debugNIxonAmado)
-##### Final project for JSON Server management at Campus
+##### Final JSON Server management project at CampusLands
 - [filtroNIxonAmado2](https://github.com/NixonAmado/filtroNIxonAmado2)
 
 ##### Logic exercises with C# 
 - [pry-logica1-Csharp](https://github.com/NixonAmado/pry-logica1-Csharp)
 - [pry-CentroAutomotriz-Csharp](https://github.com/NixonAmado/pry-CentroAutomotriz-Csharp)
-### .Net
+#### .Net
 ##### Backend exercises  
 - [campusStore](https://github.com/NixonAmado/campusStore)
 - [jardineriaEvaluacion](https://github.com/NixonAmado/jardineriaEvaluacion)
 - [universidadEvaluacion](https://github.com/NixonAmado/universidadEvaluacion)
 
-##### Team projects 
+#### Team projects 
 - [Pharmacy-Campus](https://github.com/NixonAmado/Pharmacy-Campus)
 - [UploadFiles-Campus](https://github.com/NixonAmado/UploadFiles-Campus)
 
-#### Final project for Backend at Campus
+#### Final Backend project at Campus
 - [Nixon-ropa](https://github.com/NixonAmado/Nixon-ropa)
+
+#### Angular 17
+- [AngularTechniques](https://github.com/NixonAmado/my-dashboard)
 
 ## ✨✨ My personal project ✨✨
 - [WebGlossary](https://github.com/NixonAmado/WebGlossary)
