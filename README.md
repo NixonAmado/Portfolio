@@ -38,6 +38,8 @@ I'm a Backend developer in progress 🛠️. I've gained experience studying at 
 #### Angular 17
 - [AngularTechniques](https://github.com/NixonAmado/my-dashboard)
 
+#### VUE 3
+- [VueApiConsume](https://github.com/NixonAmado/sistemaAapi)
 ## ✨✨ My personal project ✨✨
 - [WebGlossary](https://github.com/NixonAmado/WebGlossary)
 
